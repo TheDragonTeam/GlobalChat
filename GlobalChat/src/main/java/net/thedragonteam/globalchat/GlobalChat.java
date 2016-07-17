@@ -12,12 +12,12 @@ import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import net.minecraftforge.fml.relauncher.Side;
 import net.minecraftforge.fml.relauncher.SideOnly;
 
-@Mod(modid = GlobalChat.MODID, version = GlobalChat.VERSION, name = GlobalChat.NAME)
+@Mod(modid = GlobalChat.MODID, version = GlobalChat.VERSION, name = GlobalChat.MODNAME)
 public class GlobalChat
 {
     public static final String MODID = "globalchat";
     public static final String VERSION = "1.0";
-    public static final String NAME = "GlobalChat";
+    public static final String MODNAME = "GlobalChat";
     
     @EventHandler
 	public void preInit(FMLPreInitializationEvent event)  {
