@@ -1,0 +1,16 @@
+[
+{
+  "modid": "globalchat",
+  "name": "GlobalChat",
+  "description": "A global chat.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Moritz30","sokratis12GR"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
