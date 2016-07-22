@@ -12,7 +12,7 @@ import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import net.minecraftforge.fml.relauncher.Side;
 import net.minecraftforge.fml.relauncher.SideOnly;
 
-@Mod(modid = GlobalChat.MODID, version = GlobalChat.VERSION, name = GlobalChat.MODNAME)
+@Mod(modid = GlobalChat.MODID, version = GlobalChat.VERSION, name = GlobalChat.MODNAME, updateJSON = "https://raw.githubusercontent.com/TheDragonTeam/VersionUpdater/master/GlobalChat.json")
 public class GlobalChat
 {
     public static final String MODID = "globalchat";
