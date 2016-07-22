@@ -16,7 +16,7 @@ import net.minecraftforge.fml.relauncher.SideOnly;
 public class GlobalChat
 {
     public static final String MODID = "globalchat";
-    public static final String VERSION = "1.0";
+    public static final String VERSION = "1.0.0";
     public static final String MODNAME = "GlobalChat";
     
     @EventHandler
